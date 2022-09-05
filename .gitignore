@@ -1,0 +1,8 @@
+base*
+*build*
+*.izo
+*.EFI
+efi_boot
+*iso*
+*.img
+x86_64
