@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="oosle7"
+iso_name="archlinux"
 iso_label="ARCH_$(date +%Y%m)"
-iso_publisher="OrangeOS Team"
-iso_application="OrangeOS Live/Rescue CD"
+iso_publisher="Arch Linux <https://archlinux.org>"
+iso_application="Arch Linux Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
 buildmodes=('iso')
