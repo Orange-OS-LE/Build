@@ -5,5 +5,3 @@ base*
 *iso*
 *.img
 x86_64
-grub-embed*
-efiboot*
