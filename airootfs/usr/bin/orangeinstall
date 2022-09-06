@@ -1,1 +1,1 @@
-python install.py
+python /usr/bin/install.py
