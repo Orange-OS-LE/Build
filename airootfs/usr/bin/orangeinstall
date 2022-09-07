@@ -7,7 +7,7 @@ TITLE="Release Selection"
 MENU="Choose one of the following options:"
 
 OPTIONS=(1 "Release v0.1.2 (Recommended)"
-         2 "Release v0.2.0"
+         2 "Release v22.09.06"
          )
 
 CHOICE=$(dialog --clear \
@@ -21,7 +21,7 @@ CHOICE=$(dialog --clear \
 clear
 case $CHOICE in
         1)
-            echo "Beginning OrangeOS v0.1.2 installation!"
+            echo "Beginning OrangeOS v22.09.06 installation!"
 	    python /usr/bin/install2.py
             ;;
         2)
