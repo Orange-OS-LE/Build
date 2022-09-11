@@ -1,4 +1,4 @@
-To install [38;2;23;147;209mOrangeOS LE[0m run orangeinstall command!
+To install [38;2;23;147;209mOrangeOS LE[0m run [38;2;23;147;209morangeinstall[0m command!
 
 For Wi-Fi, authenticate to the wireless network using the [35miwctl[0m utility.
 For mobile broadband (WWAN) modems, connect with the [35mmmcli[0m utility.
