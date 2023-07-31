@@ -2,7 +2,7 @@
 # shellcheck disable=SC2034
 
 iso_name="orangeosle"
-iso_label="Orange_OS_LE_2_Development_Preview_2"
+iso_label="Orange-OS-LE-2-Dev-Preview-2"
 iso_publisher="Orange OS LE"
 iso_application="Orange OS LE Live/Rescue CD"
 iso_version="Development Preview 2"
