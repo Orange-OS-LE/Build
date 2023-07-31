@@ -1,0 +1,11 @@
+NAME="Orange OS LE"
+PRETTY_NAME="Orange OS LE"
+ID=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://michaeleldar.github.io"
+DOCUMENTATION_URL="https://michaeleldar.github.io"
+SUPPORT_URL="https://michaeleldar.github.io"
+BUG_REPORT_URL="https://michaeleldar.github.io"
+PRIVACY_POLICY_URL="https://michaeleldar.github.io"
+LOGO=archlinux-logo
