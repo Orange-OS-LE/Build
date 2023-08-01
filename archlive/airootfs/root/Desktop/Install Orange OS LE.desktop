@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Install Orange OS LE
+Comment=
+Exec=python3 /root/install.py
+Icon=system-installer
+Path=/root/
+Terminal=true
+StartupNotify=false
