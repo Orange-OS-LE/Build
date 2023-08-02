@@ -30,7 +30,6 @@ f2fs-tools
 fatresize
 foot-terminfo
 fsarchiver
-gnome
 gnu-netcat
 gpart
 gpm
@@ -121,7 +120,6 @@ wireless-regdb
 wireless_tools
 wpa_supplicant
 wvdial
-xdg-user-dirs
 xfsprogs
 xl2tpd
 zsh
